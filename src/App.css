@@ -1,0 +1,14 @@
+.App {
+  /* text-align: none; */
+  position:fixed;
+  left:40%;
+  top:10%;
+  border: 1px solid #ccc;
+  background-color: #f3f3f3;
+}
+
+.App.title{
+  font-size: 2em;
+}
+
+
